@@ -1,9 +1,5 @@
 /*
 
-TemplateMo 563 SEO Dream
-
-https://templatemo.com/tm-563-seo-dream
-
 /
 /* ---------------------------------------------
 Table of contents
@@ -652,7 +648,11 @@ header
     padding: 0px;
   }
   .header-area .logo {
-    margin-left: 30px;
+    margin-left: 5px;
+  }
+  .header-area .header-icon {
+    margin-left: 5px;
+    display: none;
   }
   .header-area .menu-trigger {
     display: block !important;
